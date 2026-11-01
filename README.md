@@ -29,4 +29,4 @@ javac ItemCost.java
 java ItemCost
 
 ## Author
-COS 201 Student
+Olanrewaju Oladunni Alicia
